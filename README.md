@@ -1,2 +1,3 @@
 # Pacman
-University of California, Berkeley ,pacman project
+University of California, Berkeley, AI Course, Pacman Project
+
